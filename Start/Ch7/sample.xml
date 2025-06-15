@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="b1">
+        <title>Learning Python</title>
+        <author>Mark Lutz</author>
+        <year>2021</year>
+        <price>44.99</price>
+    </book>
+    <book id="b2">
+        <title>Fluent Python</title>
+        <author>Luciano Ramalho</author>
+        <year>2022</year>
+        <price>49.99</price>
+    </book>
+    <book id="b3">
+        <title>Python Crash Course</title>
+        <author>Eric Matthes</author>
+        <year>2019</year>
+        <price>39.99</price>
+    </book>
+</library>
